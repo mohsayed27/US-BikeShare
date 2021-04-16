@@ -25,7 +25,7 @@ Birth Year
 
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns.
 
-#Statistics Computed
+# Statistics Computed
 
 1 Popular times of travel (i.e., occurs most often in the start time)
 
